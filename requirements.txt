@@ -1,0 +1,2 @@
+python-dotenv==1.0.0
+spidermon==1.19.0
